@@ -1,0 +1,1 @@
+127.0.0.1|8501|DM600|C:\Users\NABIL\Documents\uretan\testing v1.2.5\log
